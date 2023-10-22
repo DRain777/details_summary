@@ -1,0 +1,11 @@
+$Color_up_down:#222222;
+$mainColor:#f16d7f;
+
+
+// наследование
+%center_between {
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
